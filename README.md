@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **QA Automation Engineer** and **embedded DevOps practitioner** with **2+ years** at **Nimbbl** — a Sequoia-backed fintech platform processing **$1B+** in annual payment volume across **4,000+ merchants**.
+I'm a **QA Engineer** and **embedded DevOps practitioner** with **2+ years** at **Nimbbl** — a Sequoia-backed fintech platform processing **$1B+** in annual payment volume across **4,000+ merchants**.
 
 - 🔭 Currently working on **Playwright (Python)** E2E automation + **Kubernetes (EKS)** operations in a live fintech production environment
 - 🧪 Built a test suite achieving **70% automation coverage**, **40% faster** regression cycles, **30+ manual hours saved** per release
