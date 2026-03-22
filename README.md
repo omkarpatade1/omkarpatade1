@@ -65,14 +65,6 @@ I'm a **QA Automation Engineer** and **embedded DevOps practitioner** with **2+ 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarpatade1&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
